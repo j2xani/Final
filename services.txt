@@ -1,0 +1,8 @@
+1,Vaccination,40
+2,Worm Treatment,30
+3,Consultation,50
+4,CBC,35
+5,Grooming,100
+6,Nail Clipping,25
+7,Sterilization or Neutering,500
+8,Infusions,160
